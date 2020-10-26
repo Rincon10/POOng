@@ -1,0 +1,15 @@
+/** Las maquinas tienen un mejor funcionamiento con velocidad rapida*/
+
+excExcepciones
+ Cuando ocurra una excepción no esperada o una propia grave se debe escribir esta información en el log de errores para los programadores y
+terminar la ejecución del mismo
+
+
+
+poderes :
+• Phantom Racket: permite a la raqueta del jugador que le pegó al poder que en su siguiente golpe a
+la pelota envie dos pelotas. Una pelota fantasma que será falsa y otra que será la real pero
+invisible. Cuando la bola fantasma pasa al campo rival desaparece y la real se hace visible.
+
+
+
